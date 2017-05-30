@@ -5,20 +5,17 @@
 [![bitHound](https://www.bithound.io/github/quilombodrivdev/functional-series/badges/score.svg)](https://www.bithound.io/github/quilombodrivdev/functional-series)
 [![Code Climate](https://codeclimate.com/github/quilombodrivdev/functional-series/badges/gpa.svg)](https://codeclimate.com/github/quilombodrivdev/functional-series)
 
-# functional-series
+# Menos imperativo y mas funcional en javascript
 
-this is the functional series for quilombo driven development
+Este es el codigo del [primer episodio](https://www.youtube.com/watch?v=g8f-S-O07yc) de la serie de funcional. 
 
-## Install
-```
-npm install --save functional-series
-```
+## Instalacion
+`npm install`
 
 
-## How to use it:
+## Test:
+`npm run test`
 
-...
-...
 
 #### This package was genareted with [envinator](https://github.com/sfabrizio/envinator) -> Fast develoment 😎🙌
 
