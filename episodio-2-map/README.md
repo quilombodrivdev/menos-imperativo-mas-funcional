@@ -2,7 +2,7 @@
 
 # Menos imperativo y mas funcional en javascript
 
-Este es el codigo del [primer episodio](https://www.youtube.com/watch?v=g8f-S-O07yc) de la serie de funcional. 
+Este es el codigo del [segundo episodio](https://www.youtube.com/watch?v=g8f-S-O07yc) de la serie de funcional. 
 
 ## Instalacion
 `npm install`
