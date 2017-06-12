@@ -1,0 +1,24 @@
+
+> serie-funcional@0.0.0 test /Users/admin/turbo-repos/qdd-tutorials/menos-imperativo-mas-funcional/episodio-2-map
+> nyc jasmine-node --verbose --captureExceptions test
+
+Exception loading: /Users/admin/turbo-repos/qdd-tutorials/menos-imperativo-mas-funcional/episodio-2-map/test/transformarTodosEnLista.spec.js
+/Users/admin/turbo-repos/qdd-tutorials/menos-imperativo-mas-funcional/episodio-2-map/transformarTodosEnLista.js:12
+    var listaTransformada - [];
+                          ^
+SyntaxError: Unexpected token -
+    at exports.runInThisContext (vm.js:76:16)
+    at Object.vm.runInThisContext (/Users/admin/turbo-repos/qdd-tutorials/menos-imperativo-mas-funcional/episodio-2-map/node_modules/nyc/node_modules/istanbul-lib-hook/lib/hook.js:141:16)
+    at Module._compile (module.js:513:28)
+    at Module.replacementCompile (/Users/admin/turbo-repos/qdd-tutorials/menos-imperativo-mas-funcional/episodio-2-map/node_modules/nyc/node_modules/append-transform/index.js:63:13)
+    at module.exports (/Users/admin/turbo-repos/qdd-tutorials/menos-imperativo-mas-funcional/episodio-2-map/node_modules/nyc/node_modules/default-require-extensions/js.js:8:9)
+    at Object.<anonymous> (/Users/admin/turbo-repos/qdd-tutorials/menos-imperativo-mas-funcional/episodio-2-map/node_modules/nyc/node_modules/append-transform/index.js:67:4)
+    at Module.load (module.js:458:32)
+    at tryModuleLoad (module.js:417:12)
+    at Function.Module._load (module.js:409:3)
+    at Module.require (module.js:468:17)
+----------|----------|----------|----------|----------|----------------|
+File      |  % Stmts | % Branch |  % Funcs |  % Lines |Uncovered Lines |
+----------|----------|----------|----------|----------|----------------|
+All files |  Unknown |  Unknown |  Unknown |  Unknown |                |
+----------|----------|----------|----------|----------|----------------|
