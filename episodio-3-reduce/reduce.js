@@ -1,8 +1,8 @@
 let facturas = [
-    {name: "gas", valor: 200}, 
-    {name: "luz", valor: 500}, 
-    {name: "expensas", valor: 2500}, 
-    {name: "abl", valor: 800}
+    {nombre: "gas", valor: 200}, 
+    {nombre: "luz", valor: 500}, 
+    {nombre: "expensas", valor: 2500}, 
+    {nombre: "abl", valor: 800}
 ]; 
 
 // codigo imperativo
